@@ -1,0 +1,10 @@
+#include<stdio.h>
+#include<stdlib.h>
+void main()
+{
+	float num,p;
+	printf("enter your prn number");
+	scanf("%d",&num);
+	p=num;
+	printf("your prn number is",&p);
+}
